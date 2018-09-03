@@ -2,8 +2,10 @@
 This is a list containing all results I can find on the internet. Help by correcting or expanding this list!
 
 ## Common tricks
-Steam Launch options: "-force-d3d9"
+- Steam Launch options: "-force-d3d9"
 
+
+## List
 |Source|Game|Tested on|Status|What to do|
 |---|----|---------|------|----------|
 |1|Astebreed|Core i7 7700 + Radeon RX 580 8GB	Ubuntu MATE 18.04 LTS + Mesa 18.1.7 + Proton 3.7-5 beta|works perfectly|

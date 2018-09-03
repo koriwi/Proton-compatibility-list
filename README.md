@@ -1,6 +1,7 @@
 # Proton Game compatibility list
 
 |Game|Tested on|Status|What to do|
+----------------------------------
 |Astebreed|Core i7 7700 + Radeon RX 580 8GB	Ubuntu MATE 18.04 LTS + Mesa 18.1.7 + Proton 3.7-5 beta|works perfectly||
 |Batman: Arkham Origins|Core i7 7700 + Radeon RX 580 8GB	Ubuntu MATE 18.04 LTS + Mesa 18.1.6 + Proton 3.7-3|random stuttering but still playable||
 |Defense Grid: The Awakening|Core i7 7700 + Radeon RX 580 8GB	Ubuntu MATE 18.04 LTS + Mesa 18.1.7 + Proton 3.7-4 beta|works perfectly||

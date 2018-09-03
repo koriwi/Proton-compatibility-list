@@ -81,7 +81,7 @@ This is a list containing all results I can find on the internet. Help by correc
 
 
 
-# Source
+# Sources
 0. [Steam](https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561)
 1. [back2gaming](https://www.back2gaming.com/reviews/b2g-games/pc/steam-play-proton-game-compatibility-list/)
 2. [reddit](https://www.reddit.com/r/linux_gaming/comments/9cfgir/which_steamplay_title_are_you_most_happy_to_enjoy/)

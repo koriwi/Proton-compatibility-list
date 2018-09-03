@@ -3,6 +3,7 @@ This is a list containing all results I can find on the internet. Help by correc
 
 ## Common tricks
 - Steam Launch options: "-force-d3d9"
+- Arch Linux and others: "set DefaultLimitNOFILE=1048576 in /etc/systemd/system.conf and /etc/systemd/user.conf if you're having trouble launching some games with proton" [3]
 
 
 ## List
@@ -85,3 +86,4 @@ This is a list containing all results I can find on the internet. Help by correc
 0. [Steam](https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561)
 1. [back2gaming](https://www.back2gaming.com/reviews/b2g-games/pc/steam-play-proton-game-compatibility-list/)
 2. [reddit](https://www.reddit.com/r/linux_gaming/comments/9cfgir/which_steamplay_title_are_you_most_happy_to_enjoy/)
+3. [reddit](https://www.reddit.com/r/linux_gaming/comments/9c4rs2/if_youre_using_proton_an_archbased_distro_make/)

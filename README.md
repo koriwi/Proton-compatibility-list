@@ -79,6 +79,7 @@ This is a list containing all results I can find on the internet. Help by correc
 |0|Warhammer® 40,000: Dawn of War® - Dark Crusade|Steam Official|works perfectly|
 |0|Warhammer® 40,000: Dawn of War® - Soulstorm|Steam Official|works perfectly|
 |2|Wolfenstein II||works perfectly|put “+r_renderapi 1” in Steam Launch Option|
+|0|Ylands|Core i3-8100 + Ubuntu 18.04.1 + Proton 3.7-3/3.7-5 beta|not working|
 
 
 

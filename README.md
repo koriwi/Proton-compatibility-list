@@ -13,6 +13,7 @@ This is a list containing all results I can find on the internet. Help by correc
 |2|Banished||works perfectly
 |1|Batman: Arkham Origins|Core i7 7700 + Radeon RX 580 8GB	Ubuntu MATE 18.04 LTS + Mesa 18.1.6 + Proton 3.7-3|random stuttering but still playable|
 |2|Battlezone 98 Redux||works perfectly
+|0|BeamNG Drive|Steam Official,FX 8150 + R9 390X + mesa-git 18.3~git1810040730.8e0b4c~oibaf~b + Proton 3.7.7 Beta + Ubuntu 18.04 | Not work ||
 |0|Beat Saber|Steam Official|works perfectly|
 |0|Bejeweled 2 Deluxe|Steam Official|works perfectly|
 |2|Bejeweled 3||works perfectly
